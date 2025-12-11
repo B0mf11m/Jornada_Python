@@ -39,6 +39,3 @@ conceitos de matemática básica são aplicados na programação, dependendo de 
 # Operadores: Soma(+); Subtração(-); Multiplicação(*); Divisão(/); Divisão Inteira(//); Modulo/resto(%); Exponencial(**)
 
 """
-# [Código de exemplo aqui]
-
-# ... e assim por diante
